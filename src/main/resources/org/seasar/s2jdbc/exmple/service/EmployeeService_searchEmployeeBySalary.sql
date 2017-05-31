@@ -1,0 +1,4 @@
+SELECT ID, EMP_NAME, SAL FROM EMP
+WHERE
+	SAL >= /*salMin*/
+AND SAL <= /*salMax*/
